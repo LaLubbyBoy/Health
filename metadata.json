@@ -1,0 +1,6 @@
+{
+  "name": "Medicare Connect",
+  "description": "Better Healthcare. Easier Access. Healthier Lives. Comprehensive healthcare platform, telemedicine, online pharmacy, laboratory services, and hospital management system.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
